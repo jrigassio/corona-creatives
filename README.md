@@ -7,11 +7,11 @@ Here's a place for us to host things we made during the quarantine.
 ## Step 1: Format the content
 Stuff on the page will be displayed with a really basic formatting language called markdown. (This page itself is actually rendered in markdown)
 
-To format your text, images, or links to any content, you can write it in markdown. If it looks good here: dillinger.io it'll look good on the site.
+To format your text, images, or links to any content, you can write it in markdown. If it looks good here, [dillinger.io](https://dillinger.io), it'll look good on the site.
 
 Here's a markdown tutorial: 
 
-If you edit your page on dillinger.io, you can directly download the markdown from there! When you're good to go: click Export As -> Markdown
+If you edit your page on [dillinger](https://dillinger.io), you can directly download your finished file there! When you're good to go: click Export As -> Markdown
 
 
 ## Step 2: Publishing
