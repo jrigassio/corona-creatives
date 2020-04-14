@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `The Gang Gets Creative: A Coping Mechanism`,
     author: {
-      name: `The Gang`,
-      summary: `writes / draws / sings things sometimes`,
+      name: ``,
+      summary: `a crew of kids that sometimes writes / draws / sings things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog for us to share our quarantine thoughts.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `kylemathews`,
