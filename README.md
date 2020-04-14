@@ -9,9 +9,10 @@ Stuff on the page will be displayed with a really basic formatting language call
 
 To format your text, images, or links to any content, you can write it in markdown. If it looks good here, [dillinger.io](https://dillinger.io), it'll look good on the site.
 
-Here's a markdown tutorial: 
+Here's a markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-If you edit your page on [dillinger](https://dillinger.io), you can directly download your finished file there! When you're good to go: click Export As -> Markdown
+If you edit your page on [dillinger](https://dillinger.io), you can directly download your finished file there! 
+When you're good to go: click `Export As -> Markdown`
 
 
 ## Step 2: Publishing
