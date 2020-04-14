@@ -3,9 +3,9 @@ module.exports = {
     title: `The Gang Gets Creative: A Coping Mechanism`,
     author: {
       name: ``,
-      summary: `a crew of kids that sometimes writes / draws / sings things.`,
+      summary: `a crew of kids that sometimes writes / draws / cooks / sings things.`,
     },
-    description: `A blog for us to share our quarantine thoughts.`,
+    description: `A place for us to share during quarantine.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `kylemathews`,

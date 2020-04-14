@@ -19,5 +19,5 @@ If you edit your page on [dillinger](https://dillinger.io), you can directly dow
 
  **OR** 
 
-- make a github account and pull request to this repo.
+- make a pull request to this repo.
 
