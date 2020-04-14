@@ -19,7 +19,9 @@ The article was accompanied by a video showing a man dressed in what looked like
 
 Derryck couldn’t help it. He pissed himself in his seat. The woman sitting next to him immediately noticed the trickle coming down the seat and looked away in disgust, pursing her lips and shaking her head. 
 
-He showed her his phone to save face. “No, look at this story. Apparently the Second Coming is happening right now.”
+He showed her his phone to save face. 
+>“No, look at this story. Apparently the Second Coming is happening right now.”
+
 >“What the hell do you mean, the Second Coming? Where?”
 
 >“Mexico City.”
