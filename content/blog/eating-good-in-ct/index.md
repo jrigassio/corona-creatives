@@ -8,7 +8,6 @@ Marisa dumped all these pics on me and I was floored. Looks like they're eating 
 ### Tomato and onion focaccia ###
 ![foccacia](IMG_3437.jpg)
 
-plated with some
 ### Homemade sausage ravioli in marcellas hazans tomato sauce + pasta puttanesca ###
 ![meal](IMG_3440.jpg)
 
