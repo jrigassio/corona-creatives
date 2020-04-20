@@ -18,7 +18,7 @@ Marisa dumped all these pics on me and I was floored. Looks like they're eating 
 ![schweareamea](IMG_3501.jpg)
 
 ### coconut macaroons ###
-![coconut macaroons](IMG_3508.jpg)
+![coconutmacaroons](IMG_3508.jpg)
 
 ### homemade New York style pizzas ###
 ![pizza](IMG_3516.jpg)
@@ -27,10 +27,19 @@ Marisa dumped all these pics on me and I was floored. Looks like they're eating 
 ![bread](IMG_3547.jpg)
 
 ### beans au vin with Provençal potatoes and crusty bread ###
-![bread meal](IMG_3548.jpg)
+![breadmeal](IMG_3548.jpg)
 
 ### Baja fish and mango and shrimp tacos with black beans and Mexican rice ###
 ![tacos](IMG_3567.jpg)
 
 ### pad Thai ###
-![pad tai](IMG_3597.jpg)
+![padtai](IMG_3597.jpg)
+
+### homemade manicotti ###
+![manicotti](IMG_3609.jpg)
+
+### banana bread with white chocolate chips ###
+![bananabread](IMG_3629.jpg)
+
+### Homemade fettuccine in 4 hour Bolognese sauce ###
+![fettucine](IMG_3477.jpg)
