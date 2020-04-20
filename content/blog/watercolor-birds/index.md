@@ -4,7 +4,8 @@ date: 2020-04-19T22:12:03.285Z
 description: Watercolor session with James and Teja
 ---
 
-Teja and James did some painting, it was a long-awaited return to James' third grade watercolor career.
+Teja and James did some painting. 
+It was a long-awaited return to James' watercolor career, he'd last been active in the third grade.
 
 ![pic-both](20200416_193757.jpg)
 
