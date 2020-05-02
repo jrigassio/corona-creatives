@@ -11,7 +11,8 @@ To format your text, images, or links to any content, you can write it in markdo
 
 Here's a markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-If you edit your page on [dillinger](https://dillinger.io), you can directly download your finished file there! 
+If you edit your page on [dillinger](https://dillinger.io), you can directly download your finished file there!
+ 
 When you're good to go: click `Export As -> Markdown`
 
 
